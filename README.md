@@ -21,8 +21,8 @@
 ### Todo
 | Task | Repo | Assigned team member(s) | Complete? |
 | ---- | ---- | ----------------------- | --------- |
-| Create base | orange🟠 Discord Bot (Base repository) | Topias | ❌ |
+| Create base | orange🟠 Discord Bot (Base repository) | Topias | 🚧 |
 | Caching | orange🟠 Discord Bot (Base repository) | Topias, Alexei | ❌ |
 | Implement basic commands (incl slash) | orange🟠 Discord Bot | Topias, Alexei | ❌ |
-| Create CRS | orange🟠 Code Runner Server | Alexei | ❌ |
+| Create CRS | orange🟠 Code Runner Server | Alexei | ✅ |
 | Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alexei | ❌ |
