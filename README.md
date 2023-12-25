@@ -3,7 +3,7 @@
 ### List of repositories
 | Repo | Description | Status |
 | ---- | ----------- | ------ |
-| `leta` | (LEGACY BASE) Leta «Лета», the next-generation bot. | ![](https://github.com/Order-332/leta/actions/workflows/main.yml/badge.svg) |
+| `leta` | (LEGACY BASE) Leta «Лета», the next-generation bot. | ![](https://github.com/Order-332/leta/actions/workflows/main.yml/badge.svg) ![Static Badge](https://img.shields.io/badge/Sunsetting_in_2024-navy) |
 | `studybot` | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Archived-orange) |
 | Good Bot | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Unknown-grey) |
 | `orange-bot` | orange🟠 Discord Bot | ![Static Badge](https://img.shields.io/badge/Early_Development-yellow) |
