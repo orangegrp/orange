@@ -8,7 +8,7 @@
 | Good Bot | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Unknown-grey) |
 | `orange-bot` | orange🟠 Discord Bot | ![Static Badge](https://img.shields.io/badge/Early_Development-gold) |
 | `orange-bot-base` | orange🟠 Discord Bot (Base repository) | ![Static Badge](https://img.shields.io/badge/Early_Development-gold) |
-| `orange-crs` | orange🟠 Code Runner Server | ![Static Badge](https://img.shields.io/badge/Planned-blue) |
+| `orange-crs` | orange🟠 Code Runner Server | ![Static Badge](https://img.shields.io/badge/API_v1-Dev_testing-limegreen) |
 | `orange-dash` | orange🟠 Bot Admin Panel | ![Static Badge](https://img.shields.io/badge/Future-purple)  |
 | `orange-common-lib` | orange🟠 Common Library and Functions | ![Static Badge](https://img.shields.io/badge/Alpha-limegreen)  |
 
@@ -16,7 +16,7 @@
 | Team member | Actively working on repo |
 | ----------- | ------------------------ |
 | Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot |
-| Alexei | orange🟠 Discord Bot |
+| Alexei | orange🟠 Discord Bot, orange🟠 Code Runner Server |
 
 ### Todo
 | Task | Repo | Assigned team member(s) | Complete? |
