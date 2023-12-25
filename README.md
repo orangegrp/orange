@@ -15,7 +15,7 @@
 ### Team members
 | Team member | Actively working on repo |
 | ----------- | ------------------------ |
-| Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot |
+| Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot, orange🟠 Common Library and Functions |
 | Alexei | orange🟠 Discord Bot, orange🟠 Code Runner Server |
 
 ### Todo
