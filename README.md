@@ -10,6 +10,7 @@
 | `orange-bot-base` | orange🟠 Discord Bot (Base repository) | ![Static Badge](https://img.shields.io/badge/Early_Development-yellow) |
 | `orange-crs` | orange🟠 Code Runner Server | ![Static Badge](https://img.shields.io/badge/Planned-blue) |
 | `orange-dash` | orange🟠 Bot Admin Panel | ![Static Badge](https://img.shields.io/badge/Future-purple)  |
+| `orange-common-lib` | orange🟠 Common Library and Functions | ![Static Badge](https://img.shields.io/badge/Unused-white)  |
 
 ### Team members
 | Team member | Actively working on repo |
