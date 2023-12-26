@@ -1,4 +1,4 @@
-# Welcome to project orange🟠
+![Orange Logo](./orange-logo.svg)
 
 ### List of repositories
 | Repo | Description | Status |
