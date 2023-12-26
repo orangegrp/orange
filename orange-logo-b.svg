@@ -11,7 +11,7 @@
             font-size: 23px;
         }
     </style>
-    <path class="outline" d="M0 0v26h10v-4H4V4h6V0zm40 0v4h6v18h-6v4h10V0z" fill="currentColor"/>
+    <path class="outline" d="M0 0v26h10v-4H4V4h6V0zm40 0v4h6v18h-6v4h10V0z" fill="black"/>
     <text x="60" y="19" class="text">orange</text>
     <circle cx="25" cy="13" r="9" fill="#ff6723"/>
 </svg>

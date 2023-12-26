@@ -1,4 +1,5 @@
-![Orange Logo](./orange-logo.svg)
+![Logo](./orange-logo-w.svg#gh-dark-mode-only)
+![Logo](./orange-logo-b.svg#gh-light-mode-only)
 
 ### List of repositories
 | Repo | Description | Status |
