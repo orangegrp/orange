@@ -21,7 +21,7 @@ You can choose which IDE to use, however we'd recommend using VSCode (or a FOSS 
 
 ![image](https://github.com/Order-332/orange/assets/88835216/29a783c0-0d20-44f6-814d-2fd88632fdca)
 
-2. Select *Clone from GitHub*.
+2. Select *Clone from GitHub* OR *Git: Clone (Recursive)*
 
 ![image](https://github.com/Order-332/orange/assets/88835216/8ebd6430-2849-4402-afc6-060ce2436a89)
 
@@ -32,7 +32,7 @@ You can choose which IDE to use, however we'd recommend using VSCode (or a FOSS 
 4. Once the repo is cloned, and you are prompted to open the folder, click *Open*.
 5. If you are prompted with a security message asking to trust the author(s), choose *Trust*.
 6. Open the built-in VSCode terminal emulator by choosing *Terminal* and then *New Terminal* (or press `CTRL` + `SHIFT` + `'`).
-7. In the terminal window, run the setup script by typing `npm run setup`.
+7. In the terminal window, run the setup script by typing `npm run setup` **🚨 unless you cloned the repo recursively 🚨**.
 8. You can then run `npm run build` to build all the dependencies (you need to do this at least once).
 9. From now on, any time you make a change to the code, use `npm run dev` to build and run the current project. If you make any changes to the dependencies, you must run `npm run build` to recompile them.
 
@@ -44,6 +44,13 @@ Then click on *Create new branch* and name it accordingly.
 ![image](https://github.com/Order-332/orange/assets/88835216/a5d03d94-d77c-4de2-a430-ce771935cabb)
 
 When you've completed a feature, simply let us know and we'll merge it into the main branch accordingly. If there's any merge conflicts or problems, we'll let you know.
+
+#### 🚨 IMPORTANT 🚨 
+Make sure the commit and sync order is correct to ensure the repo refs do not get corrupted! (I learnt this the hard way, thanks Topias for helping me btw).
+
+![image](https://github.com/Order-332/orange/assets/88835216/9e9908cf-a046-43b6-b7bb-5803c5c3c918)
+
+**Always COMMIT and SYNC** the **submodules FIRST** and only then commit and sync the main repo. (i.e. commit and sync from the bottom-up).
 
 #### If in doubt, ask
 If you're not sure on something, please ask and we'll help you figure it out. 
