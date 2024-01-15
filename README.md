@@ -32,7 +32,7 @@ You can choose which IDE to use, however we'd recommend using VSCode (or a FOSS 
 4. Once the repo is cloned, and you are prompted to open the folder, click *Open*.
 5. If you are prompted with a security message asking to trust the author(s), choose *Trust*.
 6. Open the built-in VSCode terminal emulator by choosing *Terminal* and then *New Terminal* (or press `CTRL` + `SHIFT` + `'`).
-7. In the terminal window, run the setup script by typing `npm run setup` **🚨 unless you cloned the repo recursively 🚨**.
+7. In the terminal window, run the setup script by typing `npm run setup`.
 8. You can then run `npm run build` to build all the dependencies (you need to do this at least once).
 9. From now on, any time you make a change to the code, use `npm run dev` to build and run the current project. If you make any changes to the dependencies, you must run `npm run build` to recompile them.
 
