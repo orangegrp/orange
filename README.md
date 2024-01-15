@@ -73,13 +73,13 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | Team member | Actively working on repo |
 | ----------- | ------------------------ |
 | Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot, orange🟠 Common Library and Functions |
-| Alexei | orange🟠 Discord Bot, orange🟠 Code Runner Server |
+| Alex | orange🟠 Discord Bot, orange🟠 Code Runner Server |
 
 ### Todo
 | Task | Repo | Assigned team member(s) | Complete? |
 | ---- | ---- | ----------------------- | --------- |
 | Create base | orange🟠 Discord Bot (Base repository) | Topias | ✅ |
-| Caching | orange🟠 Discord Bot (Base repository) | Topias, Alexei | ⚠️ |
-| Implement basic commands (incl slash) | orange🟠 Discord Bot | Topias, Alexei | ✅ |
-| Create CRS | orange🟠 Code Runner Server | Alexei | ✅ |
-| Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alexei | ❌ |
+| Caching | orange🟠 Discord Bot (Base repository) | Topias, Alex | ⚠️ |
+| Implement basic commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | ✅ |
+| Create CRS | orange🟠 Code Runner Server | Alex | ✅ |
+| Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | ❌ |
