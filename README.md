@@ -51,6 +51,7 @@ Make sure the commit and sync order is correct to ensure the repo refs do not ge
 ![image](https://github.com/Order-332/orange/assets/88835216/9e9908cf-a046-43b6-b7bb-5803c5c3c918)
 
 **Always COMMIT and SYNC** the **submodules FIRST** and only then commit and sync the main repo. (i.e. commit and sync from the bottom-up).
+> :warning: Make sure to select a branch for the modules as well, usually `main` is fine. Make sure you can see main instead of the 5857... and cbc3... hashes otherwise you won't be able to sync to the origin.
 
 #### If in doubt, ask
 If you're not sure on something, please ask and we'll help you figure it out. 
