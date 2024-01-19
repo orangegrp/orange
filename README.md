@@ -65,7 +65,6 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | Good Bot | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Unknown-grey) |
 | `orange-bot` | orange🟠 Discord Bot | ![](https://github.com/orangegrp/orange-bot/actions/workflows/main.yaml/badge.svg) ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) |
 | `orange-bot-base` | orange🟠 Discord Bot (Base repository) | ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) |
-| `orange-bot-drti` | orange🟠 Discord Bot Docker Runtime Image | ![](https://github.com/orangegrp/orange-bot-drti/actions/workflows/main.yaml/badge.svg) |
 | `orange-crs` | orange🟠 Code Runner Server | [![orange-crs CI](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml/badge.svg)](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml) ![Static Badge](https://img.shields.io/badge/API_v1-Dev_testing-limegreen) |
 | `orange-dash` | orange🟠 Bot Admin Panel | ![Static Badge](https://img.shields.io/badge/Future-purple)  |
 | `orange-common-lib` | orange🟠 Common Library and Functions | ![Static Badge](https://img.shields.io/badge/Beta-limegreen)  |
