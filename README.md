@@ -63,7 +63,7 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | `leta` | (LEGACY BASE) Leta «Лета», the next-generation bot. | ![](https://github.com/orangegrp/leta/actions/workflows/main.yml/badge.svg) ![Static Badge](https://img.shields.io/badge/Sunsetting_in_2024-navy) |
 | `studybot` | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Archived-orange) |
 | Good Bot | (LEGACY BASE) | ![Static Badge](https://img.shields.io/badge/Unknown-grey) |
-| `orange-bot` | orange🟠 Discord Bot | ![](https://github.com/orangegrp/orange-bot/actions/workflows/main.yaml/badge.svg) ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) |
+| `orange-bot` | orange🟠 Discord Bot | ![](https://github.com/orangegrp/orange-bot/actions/workflows/main.yaml/badge.svg) ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) ![Static Badge](https://img.shields.io/badge/Latest-beta_0.0.8-limegreen)  |
 | `orange-bot-base` | orange🟠 Discord Bot (Base repository) | ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) |
 | `orange-crs` | orange🟠 Code Runner Server | [![orange-crs CI](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml/badge.svg)](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml) ![Static Badge](https://img.shields.io/badge/API_v1-Dev_testing-limegreen) |
 | `orange-dash` | orange🟠 Bot Admin Panel | ![Static Badge](https://img.shields.io/badge/Future-purple)  |
