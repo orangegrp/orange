@@ -73,7 +73,8 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | Team member | Actively working on repo |
 | ----------- | ------------------------ |
 | Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot, orange🟠 Common Library and Functions |
-| Alex | orange🟠 Discord Bot, orange🟠 Code Runner Server |
+| Alex | orange🟠 Discord Bot, orange🟠 Common Library and Functions, orange🟠 Code Runner Server |
+| Alastor | orange🟠 Discord Bot |
 
 ### Todo
 | Task | Repo | Assigned team member(s) | Complete? |
