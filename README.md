@@ -82,4 +82,4 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | Caching | orange🟠 Discord Bot (Base repository) | Topias, Alex | ⚠️ |
 | Implement basic commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | ✅ |
 | Create CRS | orange🟠 Code Runner Server | Alex | ✅ |
-| Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | ❌ |
+| Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | 🚧 |
