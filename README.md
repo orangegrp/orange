@@ -66,21 +66,12 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | `orange-bot` | orange🟠 Discord Bot | ![](https://github.com/orangegrp/orange-bot/actions/workflows/main.yaml/badge.svg) ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) ![Static Badge](https://img.shields.io/badge/Latest-beta_0.0.8-limegreen)  |
 | `orange-bot-base` | orange🟠 Discord Bot (Base repository) | ![Static Badge](https://img.shields.io/badge/Active_Development-limegreen) |
 | `orange-crs` | orange🟠 Code Runner Server | [![orange-crs CI](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml/badge.svg)](https://github.com/orangegrp/orange-crs/actions/workflows/main.yaml) ![Static Badge](https://img.shields.io/badge/API_v1-Dev_testing-limegreen) |
-| `orange-dash` | orange🟠 Bot Admin Panel | ![Static Badge](https://img.shields.io/badge/Future-purple)  |
+| `orange-dash` | orange🟠 Dash | ![Static Badge](https://img.shields.io/badge/Early_Development-yellow)  |
 | `orange-common-lib` | orange🟠 Common Library and Functions | ![Static Badge](https://img.shields.io/badge/Beta-limegreen)  |
 
 ### Team members
 | Team member | Actively working on repo |
 | ----------- | ------------------------ |
 | Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot, orange🟠 Common Library and Functions |
-| Alex | orange🟠 Discord Bot, orange🟠 Common Library and Functions, orange🟠 Code Runner Server |
+| Alex | orange🟠 Discord Bot, orange🟠 Common Library and Functions, orange🟠 Code Runner Server, orange🟠 Dash |
 | Alastor | orange🟠 Discord Bot |
-
-### Todo
-| Task | Repo | Assigned team member(s) | Complete? |
-| ---- | ---- | ----------------------- | --------- |
-| Create base | orange🟠 Discord Bot (Base repository) | Topias | ✅ |
-| Caching | orange🟠 Discord Bot (Base repository) | Topias, Alex | ⚠️ |
-| Implement basic commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | ✅ |
-| Create CRS | orange🟠 Code Runner Server | Alex | ✅ |
-| Implement all commands (incl slash) | orange🟠 Discord Bot | Topias, Alex | 🚧 |
