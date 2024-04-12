@@ -74,4 +74,3 @@ If you're not sure on something, please ask and we'll help you figure it out.
 | ----------- | ------------------------ |
 | Topias | orange🟠 Discord Bot (Base repository), orange🟠 Discord Bot, orange🟠 Common Library and Functions |
 | Alex | orange🟠 Discord Bot, orange🟠 Common Library and Functions, orange🟠 Code Runner Server, orange🟠 Dash |
-| Alastor | orange🟠 Discord Bot |
